@@ -1,7 +1,7 @@
 # Praktikum Pengantar Pemrograman
 
-<h1> Nama : Ayu Anugra </h1>
-<h1> NIM  : 231031064 </h1>
-<h1> Prodi: Sistem Informasi B </h1>
+<div> Nama : Ayu Anugra </div>
+<div> NIM  : 231031064 </div>
+<div> Prodi: Sistem Informasi B </div>
 
-* Praktikum 1: Pengenalan Variabel `praktikum-b1.py`
+*Praktikum 1: Pengenalan Variabel `praktikum-b1.py`
