@@ -1,6 +1,6 @@
 print('praktikum-1')
 
-print('Nama Lengkap: Ayu Anugra')
+print('Nama Lengkap: AYU ANUGRA')
 print('NIM         : 231031064')
 print('Prodi       : Sistem Informasi')
 print()
